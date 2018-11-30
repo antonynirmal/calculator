@@ -13,5 +13,9 @@ Following patterns are used in developing the solution.
 - Factory - Acts as a facade and creats required object without specifing the actual Class.
 - Memento - Provides the ability to restore object to the previous state.
 
-Reqirements Java 8, JUnit & Maven
-Compile, Test & Run mvn compile mvn test mvn exec:run
+# Environment Reqirements 
+Java 8, JUnit & Maven
+
+# Compile, Test & Run 
+- mvn compile 
+- mvn test mvn exec:run
